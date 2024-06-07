@@ -1,0 +1,13 @@
+header {
+	ul {
+		list-style: none;
+
+		a {
+			text-decoration: none;
+		}
+
+		.active {
+			border-bottom: 2px solid black;
+		}
+	}
+}
